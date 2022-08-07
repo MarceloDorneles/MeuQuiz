@@ -8,6 +8,6 @@ data class Pergunta(
     val opcaoUm : String,
     val opcaoDois : String,
     val opcaoTres : String,
-    val opacoQuatro : String,
+    val opcaoQuatro : String,
     val respostaCerta : Int
 )
